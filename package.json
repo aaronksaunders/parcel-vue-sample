@@ -1,0 +1,17 @@
+{
+  "name" : "parcel-vue",
+  "version" : "1.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^1.0.0",
+    "parcel-bundler": "^1.7.1",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
