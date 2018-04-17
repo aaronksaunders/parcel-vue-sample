@@ -3,9 +3,6 @@ Blazing fast, zero configuration web application bundler
 
 - https://parceljs.org/
 
-- https://github.com/parcel-bundler/parcel/issues/732
-
-- http://blog.rangle.io/finding-your-gateway-to-learning-vue/
 
 ## Getting Started
 
@@ -80,3 +77,9 @@ now in the terminal type the following
 ```console
 yarn run start
 ```
+
+## Referenced Content
+- vuejs.org
+- https://github.com/parcel-bundler/parcel/issues/732
+
+- http://blog.rangle.io/finding-your-gateway-to-learning-vue/
